@@ -1,0 +1,18 @@
+#firstHeader {
+    color: blue;
+}
+
+h1 {
+    color: green;
+}
+#firstHeader {
+    color: purple;
+}
+
+.half-width {
+    width: 50%;
+}
+
+.full-width {
+    width: 100%;
+}
